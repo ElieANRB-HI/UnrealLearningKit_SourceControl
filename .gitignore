@@ -75,7 +75,7 @@ Build/*/**
 
 
 # Cache files for the editor to use
-DerivedDataCache/*
+
 
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
@@ -96,3 +96,4 @@ Plugins/**/Intermediate/*
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
 
 
+Saved/webcache_*/**

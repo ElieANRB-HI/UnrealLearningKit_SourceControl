@@ -2086,3 +2086,275 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.06.04-13.47.29:137][196]LogContentValidation: Validated asset counts for 1 validators:
 [2026.06.04-13.47.29:137][196]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
 [2026.06.04-13.48.07:090][353]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node B33F3FAF419ABDD1F532CE86E43A4CB1 (10.131.60.138:58282)
+[2026.06.04-13.48.55:033][ 33]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged ShowRedirectors
+[2026.06.04-13.48.59:702][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c
+[2026.06.04-13.48.59:702][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c
+[2026.06.04-13.48.59:703][282]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c as actor: StaticMeshActor /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.StaticMeshActor_4
+[2026.06.04-13.49.00:379][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.06.04-13.49.00:383][320]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.06.04-13.49.00:389][320]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c
+[2026.06.04-13.49.00:389][320]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c
+[2026.06.04-13.49.00:391][320]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c as actor: StaticMeshActor /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.StaticMeshActor_5
+[2026.06.04-13.50.11:098][ 42]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1057.982544
+[2026.06.04-13.50.11:318][ 51]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.04-13.50.11:318][ 51]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1058.182007, Update Interval: 341.566223
+[2026.06.04-13.50.11:486][ 58]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-13.50.11:486][ 58]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-13.50.11:488][ 58]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_MovingPlatform_C_3
+[2026.06.04-13.50.11:491][ 58]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_MovingPlatform_C_3
+[2026.06.04-13.50.11:899][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.06.04-13.50.11:902][ 79]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.06.04-13.50.11:909][ 79]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-13.50.11:909][ 79]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-13.50.11:911][ 79]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_MovingPlatform_C_4
+[2026.06.04-13.50.11:914][ 79]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_MovingPlatform_C_4
+[2026.06.04-13.50.56:324][284]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2026.06.04-13.50.56:324][284]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2026.06.04-13.50.56:327][284]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_coin_C_8
+[2026.06.04-13.50.56:331][284]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_coin_C_8
+[2026.06.04-13.50.56:955][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.04-13.50.56:961][314]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2026.06.04-13.50.56:967][314]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2026.06.04-13.50.56:967][314]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2026.06.04-13.50.56:970][314]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_coin_C_9
+[2026.06.04-13.50.56:974][314]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_coin_C_9
+[2026.06.04-13.51.06:813][807]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-13.51.06:813][807]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-13.51.06:816][807]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_6
+[2026.06.04-13.51.06:822][807]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_6
+[2026.06.04-13.51.07:453][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.06.04-13.51.07:455][837]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.06.04-13.51.07:462][837]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-13.51.07:462][837]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-13.51.07:465][837]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_7
+[2026.06.04-13.51.07:471][837]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_7
+[2026.06.04-13.51.07:490][837]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_7.CheckpointTransform.
+[2026.06.04-13.51.10:859][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-13.51.10:916][ 25]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.51.10:916][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P] ([2] browsable assets)...
+[2026.06.04-13.51.10:916][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P]
+[2026.06.04-13.51.10:971][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.04-13.51.11:022][ 25]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.51.11:023][ 25]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_PE0D0B2BE407DD14D20F7A7AF270835C7.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.umap'
+[2026.06.04-13.51.11:054][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.748 ms (total: 4.60 sec)
+[2026.06.04-13.51.11:117][ 25]LogContentValidation: Enabled validators:
+[2026.06.04-13.51.11:117][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.51.11:117][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.51.11:117][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.51.11:117][ 25]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.51.11:117][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.51.11:117][ 25]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.51.11:117][ 25]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.51.11:117][ 25]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.51.11:118][ 25]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P Validating asset
+[2026.06.04-13.51.11:118][ 25]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.51.11:118][ 25]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.51.34:130][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-13.51.34:130][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-13.51.34:131][258]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_MovingPlatform_C_5
+[2026.06.04-13.51.34:135][258]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_MovingPlatform_C_5
+[2026.06.04-13.51.35:316][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.06.04-13.51.35:318][323]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.06.04-13.51.35:324][323]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-13.51.35:324][323]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-13.51.35:326][323]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_MovingPlatform_C_6
+[2026.06.04-13.51.35:330][323]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_MovingPlatform_C_6
+[2026.06.04-13.51.52:191][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-13.51.52:250][205]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.51.52:251][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P] ([2] browsable assets)...
+[2026.06.04-13.51.52:251][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P]
+[2026.06.04-13.51.52:305][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.04-13.51.52:358][205]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.51.52:360][205]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_PE15AFA6E48033578A9CFA59BD34C76E4.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.umap'
+[2026.06.04-13.51.52:393][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 201.918 ms (total: 4.80 sec)
+[2026.06.04-13.51.52:452][205]LogContentValidation: Enabled validators:
+[2026.06.04-13.51.52:452][205]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.51.52:452][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.51.52:452][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.51.52:452][205]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.51.52:452][205]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.51.52:452][205]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.51.52:452][205]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.51.52:452][205]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.51.52:453][205]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P Validating asset
+[2026.06.04-13.51.52:453][205]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.51.52:453][205]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.52.01:183][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-13.52.01:248][673]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.52.01:248][673]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P] ([2] browsable assets)...
+[2026.06.04-13.52.01:249][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P]
+[2026.06.04-13.52.01:298][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.04-13.52.01:350][673]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.52.01:351][673]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_P60C080984B486D160A5F6E849E19AD8B.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.umap'
+[2026.06.04-13.52.01:395][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 212.244 ms (total: 5.02 sec)
+[2026.06.04-13.52.01:451][673]LogContentValidation: Enabled validators:
+[2026.06.04-13.52.01:451][673]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.52.01:451][673]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.52.01:451][673]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.52.01:451][673]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.52.01:451][673]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.52.01:451][673]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.52.01:451][673]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.52.01:451][673]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.52.01:452][673]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P Validating asset
+[2026.06.04-13.52.01:452][673]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.52.01:453][673]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.52.37:406][591]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-13.52.37:406][591]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-13.52.37:408][591]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_MovingPlatform_C_7
+[2026.06.04-13.52.37:412][591]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_MovingPlatform_C_7
+[2026.06.04-13.52.38:125][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.06.04-13.52.38:128][626]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.06.04-13.52.38:134][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-13.52.38:134][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-13.52.38:136][626]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_MovingPlatform_C_8
+[2026.06.04-13.52.38:139][626]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_MovingPlatform_C_8
+[2026.06.04-13.52.56:344][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-13.52.56:399][630]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.52.56:400][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P] ([2] browsable assets)...
+[2026.06.04-13.52.56:400][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P]
+[2026.06.04-13.52.56:458][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.04-13.52.56:511][630]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.52.56:511][630]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_PF89CBF3A4D43E8B4AA6E6BBB4C3029CF.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.umap'
+[2026.06.04-13.52.56:549][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 205.217 ms (total: 5.22 sec)
+[2026.06.04-13.52.56:620][630]LogContentValidation: Enabled validators:
+[2026.06.04-13.52.56:620][630]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.52.56:620][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.52.56:620][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.52.56:620][630]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.52.56:621][630]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.52.56:621][630]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.52.56:621][630]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.52.56:621][630]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.52.56:621][630]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P Validating asset
+[2026.06.04-13.52.56:622][630]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.52.56:622][630]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.53.12:453][450]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-13.53.12:453][450]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-13.53.12:456][450]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_8
+[2026.06.04-13.53.12:460][450]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_8
+[2026.06.04-13.53.13:305][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.04-13.53.13:307][492]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.06.04-13.53.13:313][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-13.53.13:313][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-13.53.13:317][492]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9
+[2026.06.04-13.53.13:323][492]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9
+[2026.06.04-13.53.13:340][492]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9.CheckpointTransform.
+[2026.06.04-13.53.40:308][105]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9.CheckpointTransform.
+[2026.06.04-13.53.40:334][106]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9.CheckpointTransform.
+[2026.06.04-13.53.40:359][107]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9.CheckpointTransform.
+[2026.06.04-13.53.40:384][108]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9.CheckpointTransform.
+[2026.06.04-13.53.40:408][109]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9.CheckpointTransform.
+[2026.06.04-13.53.40:529][115]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9.CheckpointTransform.
+[2026.06.04-13.53.40:556][116]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9.CheckpointTransform.
+[2026.06.04-13.53.40:600][118]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9.CheckpointTransform.
+[2026.06.04-13.53.40:686][122]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9.CheckpointTransform.
+[2026.06.04-13.53.40:733][124]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9.CheckpointTransform.
+[2026.06.04-13.53.40:980][137]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_9.CheckpointTransform.
+[2026.06.04-13.53.44:859][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-13.53.44:899][354]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.53.44:899][354]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P] ([2] browsable assets)...
+[2026.06.04-13.53.44:899][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P]
+[2026.06.04-13.53.44:952][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.06.04-13.53.45:007][354]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.53.45:007][354]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_P331B04CD4BF6C2170313C18DC0C05E77.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.umap'
+[2026.06.04-13.53.45:039][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 179.498 ms (total: 5.40 sec)
+[2026.06.04-13.53.45:103][354]LogContentValidation: Enabled validators:
+[2026.06.04-13.53.45:103][354]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.53.45:103][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.53.45:103][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.53.45:103][354]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.53.45:103][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.53.45:103][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.53.45:103][354]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.53.45:103][354]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.53.45:104][354]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P Validating asset
+[2026.06.04-13.53.45:104][354]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.53.45:104][354]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.54.14:540][858]Cmd: DELETE
+[2026.06.04-13.54.14:540][858]Cmd: ACTOR DELETE
+[2026.06.04-13.54.14:549][858]LogEditorActor: Deleted Actor: BP_endGoal_C
+[2026.06.04-13.54.14:579][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.06.04-13.54.14:581][858]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.06.04-13.54.15:739][926]LogStreaming: Display: FlushAsyncLoading(477): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-13.54.15:773][926]LogStaticMesh: Display: Building static mesh SM_Powerup_01_Shard01 (Required Memory Estimate: 0.636744 MB)...
+[2026.06.04-13.54.15:773][926]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave SFX_Chime_07B...
+[2026.06.04-13.54.15:791][926]LogAudioDerivedData: Display: SFX_Chime_07B compressed to 13.20% (from 352KB to 46KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.06.04-13.54.15:791][926]LogAudio: Display: Chunk stats for (SoundWave /Game/LearningKit_Games/Assets/SFX/SFX_Chime_07B.SFX_Chime_07B: Duration=2.02 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=47701 bytes, ChunkN=0)
+[2026.06.04-13.54.15:876][927]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-13.54.15:877][927]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-13.54.15:878][927]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_Key_activity_4_end_C_0
+[2026.06.04-13.54.15:882][927]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_Key_activity_4_end_C_0
+[2026.06.04-13.54.15:912][928]LogStaticMesh: Built static mesh [0.14s] /Game/LearningKit_Games/Assets/Props/Powerups/Powerup_A/SM_Powerup_01_Shard01.SM_Powerup_01_Shard01
+[2026.06.04-13.54.16:463][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.06.04-13.54.16:465][958]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.06.04-13.54.16:470][958]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-13.54.16:470][958]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-13.54.16:473][958]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_Key_activity_4_end_C_1
+[2026.06.04-13.54.16:477][958]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_Key_activity_4_end_C_1
+[2026.06.04-13.54.22:377][266]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_endGoal.BP_endGoal_C
+[2026.06.04-13.54.22:377][266]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_endGoal.BP_endGoal_C
+[2026.06.04-13.54.22:380][266]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_endGoal.BP_endGoal as actor: BP_endGoal_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_endGoal_C_2
+[2026.06.04-13.54.22:388][266]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_endGoal.BP_endGoal as actor: BP_endGoal_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_endGoal_C_2
+[2026.06.04-13.54.23:025][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.06.04-13.54.23:028][295]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2026.06.04-13.54.23:033][295]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_endGoal.BP_endGoal_C
+[2026.06.04-13.54.23:034][295]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_endGoal.BP_endGoal_C
+[2026.06.04-13.54.23:038][295]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_endGoal.BP_endGoal as actor: BP_endGoal_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_endGoal_C_3
+[2026.06.04-13.54.23:044][295]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_endGoal.BP_endGoal as actor: BP_endGoal_C /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_endGoal_C_3
+[2026.06.04-13.54.26:594][474]Cmd: DELETE
+[2026.06.04-13.54.26:595][474]Cmd: ACTOR DELETE
+[2026.06.04-13.54.26:604][474]LogEditorActor: Deleted Actor: BP_endGoal_C
+[2026.06.04-13.54.26:629][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.06.04-13.54.26:632][474]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.06.04-13.54.40:645][286]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c
+[2026.06.04-13.54.40:646][286]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c
+[2026.06.04-13.54.40:647][286]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c as actor: StaticMeshActor /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.StaticMeshActor_8
+[2026.06.04-13.54.41:215][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.06.04-13.54.41:220][322]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.06.04-13.54.41:225][322]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c
+[2026.06.04-13.54.41:225][322]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c
+[2026.06.04-13.54.41:228][322]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c as actor: StaticMeshActor /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.StaticMeshActor_9
+[2026.06.04-13.54.47:073][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-13.54.47:132][626]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.54.47:133][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P] ([2] browsable assets)...
+[2026.06.04-13.54.47:133][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P]
+[2026.06.04-13.54.47:183][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.04-13.54.47:235][626]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.54.47:235][626]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_P5A85C8D64FF9E333A6A708A849A31914.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.umap'
+[2026.06.04-13.54.47:267][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.656 ms (total: 5.59 sec)
+[2026.06.04-13.54.47:333][626]LogContentValidation: Enabled validators:
+[2026.06.04-13.54.47:333][626]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.54.47:333][626]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.54.47:333][626]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.54.47:333][626]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.54.47:333][626]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.54.47:333][626]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.54.47:333][626]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.54.47:333][626]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.54.47:335][626]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P Validating asset
+[2026.06.04-13.54.47:335][626]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.54.47:335][626]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.56.01:337][869]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1408.224243
+[2026.06.04-13.56.01:510][880]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.04-13.56.01:511][880]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1408.381104, Update Interval: 346.991791
+[2026.06.04-13.56.09:333][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-13.56.09:397][332]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.56.09:399][332]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P] ([2] browsable assets)...
+[2026.06.04-13.56.09:399][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P]
+[2026.06.04-13.56.09:448][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.06.04-13.56.09:504][332]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.56.09:505][332]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_P79F0EC1348906FA02321ED9E34E90867.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.umap'
+[2026.06.04-13.56.09:531][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.628 ms (total: 5.79 sec)
+[2026.06.04-13.56.09:598][332]LogContentValidation: Enabled validators:
+[2026.06.04-13.56.09:598][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.56.09:598][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.56.09:598][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.56.09:598][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.56.09:598][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.56.09:598][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.56.09:598][332]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.56.09:598][332]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.56.09:599][332]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P Validating asset
+[2026.06.04-13.56.09:599][332]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.56.09:599][332]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1

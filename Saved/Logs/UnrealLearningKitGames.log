@@ -2358,3 +2358,269 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.06.04-13.56.09:599][332]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P Validating asset
 [2026.06.04-13.56.09:599][332]LogContentValidation: Validated asset counts for 1 validators:
 [2026.06.04-13.56.09:599][332]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.58.02:222][536]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.04-13.58.02:236][536]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.06.04-13.58.02:236][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-13.58.02:244][536]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.06.04-13.58.02:244][536]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.06.04-13.58.02:244][536]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/SubLevels/UEDPIE_0_SubLevels_Level_HOC_world_P
+[2026.06.04-13.58.02:267][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022697s)
+[2026.06.04-13.58.02:267][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P to /Game/Hour_of_Code/Maps/SubLevels/UEDPIE_0_SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P (0.022790s)
+[2026.06.04-13.58.02:300][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.06.04-13.58.02:301][536]LogChaosDD: Creating Chaos Debug Draw Scene for world SubLevels_Level_HOC_world_P
+[2026.06.04-13.58.02:305][536]LogPlayLevel: PIE: World Init took: (0.003417s)
+[2026.06.04-13.58.02:305][536]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.06.04-13.58.02:305][536]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-13.58.02:305][536]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-13.58.02:305][536]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-13.58.02:305][536]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-13.58.02:305][536]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-13.58.02:305][536]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-13.58.02:305][536]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-13.58.02:305][536]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-13.58.02:305][536]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-13.58.02:305][536]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-13.58.02:305][536]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-13.58.02:308][536]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-13.58.02:312][536]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Haut-parleurs / écouteurs (Realtek Audio)'
+[2026.06.04-13.58.02:313][536]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Haut-parleurs / écouteurs (Realtek Audio)'
+[2026.06.04-13.58.02:314][536]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Haut-parleurs / écouteurs (Realtek Audio)'
+[2026.06.04-13.58.02:324][536]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-13.58.02:324][536]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-13.58.02:324][536]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-13.58.02:324][536]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-13.58.02:325][536]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.06.04-13.58.02:325][536]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.06.04-13.58.02:329][536]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.06.04-13.58.02:329][536]LogInit: FAudioDevice initialized with ID 2.
+[2026.06.04-13.58.02:329][536]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.06.04-13.58.02:330][536]LogAudio: Display: Audio Device (ID: 2) registered with world 'SubLevels_Level_HOC_world_P'.
+[2026.06.04-13.58.02:330][536]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.06.04-13.58.02:335][536]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2026.06.04-13.58.02:343][536]LogWorld: Bringing World /Game/Hour_of_Code/Maps/SubLevels/UEDPIE_0_SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P up for play (max tick rate 0) at 2026.06.04-15.58.02
+[2026.06.04-13.58.02:343][536]LogWorld: Bringing up level for play took: 0.007936
+[2026.06.04-13.58.02:347][536]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.06.04-13.58.02:362][536]PIE: Server logged in
+[2026.06.04-13.58.02:365][536]PIE: Play in editor total start time 0,129 seconds.
+[2026.06.04-13.58.03:869][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-13.58.03:869][627]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/SubLevels/UEDPIE_0_SubLevels_Level_HOC_world_P
+[2026.06.04-13.58.03:870][627]LogWorld: UWorld::CleanupWorld for SubLevels_Level_HOC_world_P, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.58.03:872][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.58.03:874][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-13.58.03:879][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.58.03:911][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-13.58.03:912][627]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.06.04-13.58.03:913][627]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.06.04-13.58.03:915][627]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.06.04-13.58.03:926][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.06.04-13.58.04:009][628]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.06.04-13.58.56:931][497]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_BaseLVL] ([1] browsable assets)...
+[2026.06.04-13.58.56:931][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_BaseLVL]
+[2026.06.04-13.58.56:960][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.04-13.58.57:130][497]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_BaseLVL
+[2026.06.04-13.58.57:130][497]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_BaseLVB14E5C444A83301D5B627DA2008D7A7A.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_BaseLVL.umap'
+[2026.06.04-13.58.59:012][497]LogContentValidation: Enabled validators:
+[2026.06.04-13.58.59:012][497]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.58.59:012][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.58.59:012][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.58.59:012][497]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.58.59:012][497]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.58.59:012][497]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.58.59:012][497]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.58.59:012][497]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.58.59:013][497]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_BaseLVL Validating asset
+[2026.06.04-13.58.59:013][497]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.58.59:013][497]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.58.59:059][497]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.04-13.58.59:059][497]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.04-13.58.59:067][497]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.04-13.59.02:198][683]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_ENVIRO] ([1] browsable assets)...
+[2026.06.04-13.59.02:198][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_ENVIRO]
+[2026.06.04-13.59.02:228][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.06.04-13.59.02:260][683]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_ENVIRO
+[2026.06.04-13.59.02:260][683]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_ENVIROEE38EB514581AF05A268B4A827185B48.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_ENVIRO.umap'
+[2026.06.04-13.59.02:620][683]LogContentValidation: Enabled validators:
+[2026.06.04-13.59.02:620][683]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.59.02:620][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.59.02:620][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.59.02:620][683]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.59.02:620][683]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.59.02:620][683]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.59.02:620][683]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.59.02:620][683]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.59.02:621][683]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_ENVIRO Validating asset
+[2026.06.04-13.59.02:621][683]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.59.02:621][683]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.59.07:052][950]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level1_setDressing] ([1] browsable assets)...
+[2026.06.04-13.59.07:052][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level1_setDressing]
+[2026.06.04-13.59.07:081][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.04-13.59.07:105][950]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level1_setDressing
+[2026.06.04-13.59.07:106][950]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_Level10C3720B944299BEC4E0B35B221C5ADF0.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level1_setDressing.umap'
+[2026.06.04-13.59.07:366][950]LogContentValidation: Enabled validators:
+[2026.06.04-13.59.07:366][950]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.59.07:366][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.59.07:366][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.59.07:366][950]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.59.07:366][950]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.59.07:366][950]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.59.07:366][950]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.59.07:366][950]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.59.07:366][950]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level1_setDressing Validating asset
+[2026.06.04-13.59.07:366][950]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.59.07:366][950]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.59.07:386][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.04-13.59.07:386][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.04-13.59.07:393][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.04-13.59.11:416][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level2_setDressing] ([1] browsable assets)...
+[2026.06.04-13.59.11:416][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level2_setDressing]
+[2026.06.04-13.59.11:446][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.04-13.59.11:478][189]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level2_setDressing
+[2026.06.04-13.59.11:479][189]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_Level2C2E9644244DD9DBD6AFD078785D86FAC.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level2_setDressing.umap'
+[2026.06.04-13.59.11:831][189]LogContentValidation: Enabled validators:
+[2026.06.04-13.59.11:831][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.59.11:831][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.59.11:831][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.59.11:831][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.59.11:831][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.59.11:831][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.59.11:831][189]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.59.11:831][189]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.59.11:831][189]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level2_setDressing Validating asset
+[2026.06.04-13.59.11:831][189]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.59.11:831][189]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.59.11:853][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.04-13.59.14:200][320]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level5_setDressing] ([1] browsable assets)...
+[2026.06.04-13.59.14:200][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level5_setDressing]
+[2026.06.04-13.59.14:232][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.04-13.59.14:259][320]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level5_setDressing
+[2026.06.04-13.59.14:259][320]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_Level5B77990FB45F5D5CA6D1E58B8B1879B1F.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level5_setDressing.umap'
+[2026.06.04-13.59.14:530][320]LogContentValidation: Enabled validators:
+[2026.06.04-13.59.14:530][320]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.59.14:530][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.59.14:530][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.59.14:530][320]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.59.14:530][320]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.59.14:530][320]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.59.14:530][320]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.59.14:530][320]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.59.14:530][320]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level5_setDressing Validating asset
+[2026.06.04-13.59.14:530][320]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.59.14:530][320]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.59.14:550][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.06.04-13.59.18:233][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_MainLighting] ([1] browsable assets)...
+[2026.06.04-13.59.18:233][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_MainLighting]
+[2026.06.04-13.59.18:262][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.04-13.59.18:279][541]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_MainLighting
+[2026.06.04-13.59.18:279][541]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_MainLiD97A929F4DF7A5F773F4DD8863CE0DA2.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_MainLighting.umap'
+[2026.06.04-13.59.18:463][541]LogContentValidation: Enabled validators:
+[2026.06.04-13.59.18:463][541]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.59.18:463][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.59.18:463][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.59.18:463][541]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.59.18:463][541]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.59.18:463][541]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.59.18:463][541]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.59.18:463][541]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.59.18:463][541]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_MainLighting Validating asset
+[2026.06.04-13.59.18:463][541]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.59.18:463][541]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.59.22:416][786]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_VFX] ([1] browsable assets)...
+[2026.06.04-13.59.22:416][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_VFX]
+[2026.06.04-13.59.22:445][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.06.04-13.59.22:482][786]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_VFX
+[2026.06.04-13.59.22:483][786]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_VFX8093A187456365E673DBA3A5A7D31A32.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_VFX.umap'
+[2026.06.04-13.59.25:045][786]LogContentValidation: Enabled validators:
+[2026.06.04-13.59.25:045][786]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.59.25:045][786]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.59.25:045][786]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.59.25:045][786]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.59.25:045][786]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.59.25:045][786]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.59.25:045][786]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.59.25:045][786]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.59.25:046][786]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_VFX Validating asset
+[2026.06.04-13.59.25:046][786]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.59.25:046][786]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.59.27:138][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-13.59.27:195][900]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_VFX
+[2026.06.04-13.59.27:195][900]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_VFX] ([1] browsable assets)...
+[2026.06.04-13.59.27:195][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_VFX]
+[2026.06.04-13.59.27:225][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.06.04-13.59.27:260][900]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_VFX
+[2026.06.04-13.59.27:261][900]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_VFX4A785D6B415379BB13D297A4FF7C400A.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_VFX.umap'
+[2026.06.04-13.59.27:282][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.055 ms (total: 5.94 sec)
+[2026.06.04-13.59.27:346][900]LogContentValidation: Enabled validators:
+[2026.06.04-13.59.27:346][900]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.59.27:346][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.59.27:346][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.59.27:346][900]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.59.27:346][900]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.59.27:346][900]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.59.27:346][900]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.59.27:346][900]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.59.27:346][900]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_VFX Validating asset
+[2026.06.04-13.59.27:346][900]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.59.27:346][900]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.59.29:910][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.06.04-13.59.29:916][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-13.59.29:980][ 54]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.59.29:980][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P] ([2] browsable assets)...
+[2026.06.04-13.59.29:980][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P]
+[2026.06.04-13.59.30:032][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.06.04-13.59.30:084][ 54]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.59.30:084][ 54]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_PA94C33564477FD8C1C979BACC23AF38D.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.umap'
+[2026.06.04-13.59.30:096][ 54]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level1_setDressing
+[2026.06.04-13.59.30:096][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level1_setDressing] ([1] browsable assets)...
+[2026.06.04-13.59.30:097][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level1_setDressing]
+[2026.06.04-13.59.30:134][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.04-13.59.30:156][ 54]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level1_setDressing
+[2026.06.04-13.59.30:157][ 54]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_Level1737421A9485BCD99B103E0BEACD53DCB.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level1_setDressing.umap'
+[2026.06.04-13.59.30:169][ 54]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level2_setDressing
+[2026.06.04-13.59.30:169][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level2_setDressing] ([1] browsable assets)...
+[2026.06.04-13.59.30:169][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level2_setDressing]
+[2026.06.04-13.59.30:197][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.04-13.59.30:224][ 54]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level2_setDressing
+[2026.06.04-13.59.30:225][ 54]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_Level262E1EED14D018A1F0BF0A8ACC8C348C2.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level2_setDressing.umap'
+[2026.06.04-13.59.30:234][ 54]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_BaseLVL
+[2026.06.04-13.59.30:235][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_BaseLVL] ([1] browsable assets)...
+[2026.06.04-13.59.30:235][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_BaseLVL]
+[2026.06.04-13.59.30:265][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.06.04-13.59.30:426][ 54]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_BaseLVL
+[2026.06.04-13.59.30:428][ 54]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_BaseLV69E69BC8497387C0BD2357AFBA6B1439.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_BaseLVL.umap'
+[2026.06.04-13.59.30:446][ 54]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_MainLighting
+[2026.06.04-13.59.30:446][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_MainLighting] ([1] browsable assets)...
+[2026.06.04-13.59.30:446][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_MainLighting]
+[2026.06.04-13.59.30:476][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.04-13.59.30:492][ 54]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_MainLighting
+[2026.06.04-13.59.30:493][ 54]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_MainLi38164B0E4F874B754F8A8BA915B44CDB.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_MainLighting.umap'
+[2026.06.04-13.59.30:502][ 54]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level5_setDressing
+[2026.06.04-13.59.30:502][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level5_setDressing] ([1] browsable assets)...
+[2026.06.04-13.59.30:502][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level5_setDressing]
+[2026.06.04-13.59.30:532][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.06.04-13.59.30:553][ 54]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level5_setDressing
+[2026.06.04-13.59.30:553][ 54]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_Level583FB19504661E8FC0C240E9FBFA15BB1.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level5_setDressing.umap'
+[2026.06.04-13.59.30:564][ 54]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_ENVIRO
+[2026.06.04-13.59.30:564][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_ENVIRO] ([1] browsable assets)...
+[2026.06.04-13.59.30:564][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_ENVIRO]
+[2026.06.04-13.59.30:593][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.04-13.59.30:623][ 54]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_ENVIRO
+[2026.06.04-13.59.30:624][ 54]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_ENVIRO227AB7FF4DA26961B8FA8D9E5ACCF9F3.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_ENVIRO.umap'
+[2026.06.04-13.59.30:646][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 729.944 ms (total: 6.67 sec)
+[2026.06.04-13.59.30:728][ 54]LogContentValidation: Enabled validators:
+[2026.06.04-13.59.30:728][ 54]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.59.30:728][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.59.30:728][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.59.30:728][ 54]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.59.30:728][ 54]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.59.30:728][ 54]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.59.30:728][ 54]LogContentValidation: Display: Starting to validate 7 assets (0 associated objects such as actors)
+[2026.06.04-13.59.30:728][ 54]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.59.30:729][ 54]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P Validating asset
+[2026.06.04-13.59.30:729][ 54]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level1_setDressing Validating asset
+[2026.06.04-13.59.30:730][ 54]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level2_setDressing Validating asset
+[2026.06.04-13.59.30:730][ 54]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_BaseLVL Validating asset
+[2026.06.04-13.59.30:730][ 54]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_MainLighting Validating asset
+[2026.06.04-13.59.30:730][ 54]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level5_setDressing Validating asset
+[2026.06.04-13.59.30:730][ 54]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_ENVIRO Validating asset
+[2026.06.04-13.59.30:731][ 54]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.59.30:731][ 54]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 7

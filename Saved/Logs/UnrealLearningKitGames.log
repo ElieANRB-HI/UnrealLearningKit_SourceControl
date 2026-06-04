@@ -1931,3 +1931,158 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.06.04-13.43.18:223][301]AssetCheck: /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world_BuiltData Validating asset
 [2026.06.04-13.43.18:223][301]LogContentValidation: Validated asset counts for 1 validators:
 [2026.06.04-13.43.18:223][301]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.06.04-13.44.11:164][243]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 698.048401
+[2026.06.04-13.44.11:376][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.04-13.44.11:376][254]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 698.240234, Update Interval: 351.827759
+[2026.06.04-13.44.56:055][730]Cmd: EDIT COPY
+[2026.06.04-13.45.22:660][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.04-13.45.22:665][392]LogStreaming: Display: FlushAsyncLoading(361): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-13.45.22:674][392]LogChaosDD: Creating Chaos Debug Draw Scene for world SubLevels_Level_HOC_world_P
+[2026.06.04-13.45.22:683][392]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P
+[2026.06.04-13.45.22:745][392]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.45.22:745][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.45.22:787][392]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.04-13.45.22:809][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.06.04-13.45.22:817][392]LogWorld: UWorld::CleanupWorld for SubLevels_Level_HOC_world_P, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.45.22:817][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.45.22:843][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.06.04-13.45.22:937][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.04-13.45.22:947][392]LogAudio: Display: Audio Device (ID: 1) registered with world 'SubLevels_Level_HOC_world_P'.
+[2026.06.04-13.45.22:947][392]LogChaosDD: Creating Chaos Debug Draw Scene for world SubLevels_Level_HOC_world_P
+[2026.06.04-13.45.22:966][392]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level1_setDressing) is flushing async loading
+[2026.06.04-13.45.22:974][392]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_BaseLVL) is flushing async loading
+[2026.06.04-13.45.23:080][392]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_VFX) is flushing async loading
+[2026.06.04-13.45.25:395][392]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_MainLighting) is flushing async loading
+[2026.06.04-13.45.25:401][392]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_ENVIRO) is flushing async loading
+[2026.06.04-13.45.25:414][392]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level2_setDressing) is flushing async loading
+[2026.06.04-13.45.25:425][392]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level5_setDressing) is flushing async loading
+[2026.06.04-13.45.25:458][392]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.04-13.45.25:516][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.06.04-13.45.25:525][392]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.04-13.45.25:525][392]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,293ms to complete.
+[2026.06.04-13.45.25:584][392]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_1.CheckpointTransform.
+[2026.06.04-13.45.26:278][394]LogSlate: External Image Picker: DecompressImage failed
+[2026.06.04-13.45.28:842][532]Cmd: EDIT PASTE
+[2026.06.04-13.45.32:620][794]Cmd: DELETE
+[2026.06.04-13.45.32:620][794]Cmd: ACTOR DELETE
+[2026.06.04-13.45.35:672][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.06.04-13.45.35:674][994]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-13.45.35:936][994]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-13.45.36:051][994]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world
+[2026.06.04-13.45.36:108][994]LogWorld: UWorld::CleanupWorld for SubLevels_Level_HOC_world_P, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.45.36:109][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.45.36:109][994]LogWorld: UWorld::CleanupWorld for SubLevels_Level_HOC_world_Level1_setDressing, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.45.36:109][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.45.36:109][994]LogWorld: UWorld::CleanupWorld for SubLevels_Level_HOC_world_BaseLVL, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.45.36:109][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.45.36:109][994]LogWorld: UWorld::CleanupWorld for SubLevels_Level_HOC_world_VFX, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.45.36:109][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.45.36:109][994]LogWorld: UWorld::CleanupWorld for SubLevels_Level_HOC_world_MainLighting, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.45.36:109][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.45.36:109][994]LogWorld: UWorld::CleanupWorld for SubLevels_Level_HOC_world_ENVIRO, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.45.36:109][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.45.36:109][994]LogWorld: UWorld::CleanupWorld for SubLevels_Level_HOC_world_Level2_setDressing, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.45.36:109][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.45.36:110][994]LogWorld: UWorld::CleanupWorld for SubLevels_Level_HOC_world_Level5_setDressing, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.45.36:110][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.45.36:172][994]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.04-13.45.36:193][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.06.04-13.45.36:203][994]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.45.36:207][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.45.36:247][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.06.04-13.45.36:276][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.06.04-13.45.36:468][994]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_HOC_world'.
+[2026.06.04-13.45.36:468][994]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-13.45.38:866][994]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.04-13.45.38:923][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.06.04-13.45.38:933][994]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.04-13.45.38:933][994]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,266ms to complete.
+[2026.06.04-13.45.38:985][994]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_checkpoint_C_1.CheckpointTransform.
+[2026.06.04-13.45.38:985][994]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_checkpoint_C_2.CheckpointTransform.
+[2026.06.04-13.45.38:985][994]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_checkpoint_C_4.CheckpointTransform.
+[2026.06.04-13.45.38:985][994]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_checkpoint_C_6.CheckpointTransform.
+[2026.06.04-13.45.38:985][994]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_checkpoint_C_8.CheckpointTransform.
+[2026.06.04-13.45.39:025][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.04-13.45.39:655][996]LogSlate: External Image Picker: DecompressImage failed
+[2026.06.04-13.45.45:438][421]Cmd: EDIT COPY
+[2026.06.04-13.45.49:483][656]Cmd: EDIT COPY
+[2026.06.04-13.45.52:794][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.06.04-13.45.52:798][830]LogStreaming: Display: FlushAsyncLoading(444): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-13.45.52:807][830]LogChaosDD: Creating Chaos Debug Draw Scene for world SubLevels_Level_HOC_world_P
+[2026.06.04-13.45.52:816][830]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P
+[2026.06.04-13.45.52:874][830]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.45.52:875][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.45.52:924][830]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.04-13.45.52:936][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.06.04-13.45.52:943][830]LogWorld: UWorld::CleanupWorld for SubLevels_Level_HOC_world_P, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-13.45.52:943][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-13.45.52:969][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.06.04-13.45.53:064][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.06.04-13.45.53:073][830]LogAudio: Display: Audio Device (ID: 1) registered with world 'SubLevels_Level_HOC_world_P'.
+[2026.06.04-13.45.53:073][830]LogChaosDD: Creating Chaos Debug Draw Scene for world SubLevels_Level_HOC_world_P
+[2026.06.04-13.45.53:089][830]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level1_setDressing) is flushing async loading
+[2026.06.04-13.45.53:096][830]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level2_setDressing) is flushing async loading
+[2026.06.04-13.45.53:106][830]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_BaseLVL) is flushing async loading
+[2026.06.04-13.45.53:210][830]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_MainLighting) is flushing async loading
+[2026.06.04-13.45.53:213][830]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_Level5_setDressing) is flushing async loading
+[2026.06.04-13.45.53:220][830]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_VFX) is flushing async loading
+[2026.06.04-13.45.55:579][830]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_ENVIRO) is flushing async loading
+[2026.06.04-13.45.55:617][830]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.04-13.45.55:679][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.04-13.45.55:686][830]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.04-13.45.55:688][830]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,383ms to complete.
+[2026.06.04-13.45.55:735][830]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_1.CheckpointTransform.
+[2026.06.04-13.45.56:391][832]LogSlate: External Image Picker: DecompressImage failed
+[2026.06.04-13.45.59:010][980]Cmd: EDIT PASTE
+[2026.06.04-13.45.59:183][980]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C'BP_MovingPlatform_C_3'",DirectionPropertyName="Movement__Direction_C13329824E2A42C16441F5A019D5ED27")'
+[2026.06.04-13.45.59:222][980]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C'BP_MovingPlatform_C_5'",DirectionPropertyName="Movement__Direction_C13329824E2A42C16441F5A019D5ED27")'
+[2026.06.04-13.45.59:274][980]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/Hour_of_Code/Blueprints/BP_endGoal.BP_endGoal_C'BP_endGoal_C_2'",DirectionPropertyName="Timeline_0__Direction_D8907FB14D418EC7803936BB0ECA81FC")'
+[2026.06.04-13.45.59:274][980]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/Hour_of_Code/Blueprints/BP_endGoal.BP_endGoal_C'BP_endGoal_C_2'",DirectionPropertyName="MidShardAnim__Direction_70ADB37A47103FC0C2333E928D821B46")'
+[2026.06.04-13.45.59:274][980]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/Hour_of_Code/Blueprints/BP_endGoal.BP_endGoal_C'BP_endGoal_C_2'",DirectionPropertyName="BottomShardAnim__Direction_09682CAA4FAF5F07F8EF66B1593A9367")'
+[2026.06.04-13.45.59:275][980]LogProperty: Warning: WeakObjectProperty /Script/Engine.Timeline:PropertySetObject: unresolved reference to '"/Game/Hour_of_Code/Blueprints/BP_endGoal.BP_endGoal_C'BP_endGoal_C_2'",DirectionPropertyName="TopShardAnim__Direction_CA3986554AE4454B76F822AADA66EEE4")'
+[2026.06.04-13.45.59:461][980]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_0.CheckpointTransform.
+[2026.06.04-13.45.59:461][980]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_2.CheckpointTransform.
+[2026.06.04-13.45.59:461][980]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_3.CheckpointTransform.
+[2026.06.04-13.45.59:461][980]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_4.CheckpointTransform.
+[2026.06.04-13.45.59:461][980]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.SubLevels_Level_HOC_world_P:PersistentLevel.BP_checkpoint_C_5.CheckpointTransform.
+[2026.06.04-13.47.15:274][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-13.47.15:336][390]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.47.15:337][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P] ([2] browsable assets)...
+[2026.06.04-13.47.15:337][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P]
+[2026.06.04-13.47.15:389][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.04-13.47.15:442][390]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.47.15:443][390]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_P84C351CE4EFE4A9567E25E876C93E802.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.umap'
+[2026.06.04-13.47.15:471][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 196.956 ms (total: 4.21 sec)
+[2026.06.04-13.47.15:540][390]LogContentValidation: Enabled validators:
+[2026.06.04-13.47.15:540][390]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.47.15:540][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.47.15:540][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.47.15:540][390]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.47.15:540][390]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.47.15:541][390]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.47.15:541][390]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.47.15:541][390]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.47.15:542][390]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P Validating asset
+[2026.06.04-13.47.15:542][390]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.47.15:542][390]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.47.28:874][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-13.47.28:939][196]LogFileHelpers: Saving Map: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.47.28:940][196]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P] ([2] browsable assets)...
+[2026.06.04-13.47.28:940][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P]
+[2026.06.04-13.47.28:990][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.06.04-13.47.29:040][196]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P
+[2026.06.04-13.47.29:041][196]LogSavePackage: Moving '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Saved/SubLevels_Level_HOC_world_P5E6ADFF74CB103435C191BAA4FEC6ED5.tmp' to '../../../../../../Users/elian.brient-robert/Desktop/Clone_ UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P.umap'
+[2026.06.04-13.47.29:066][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.588 ms (total: 4.41 sec)
+[2026.06.04-13.47.29:136][196]LogContentValidation: Enabled validators:
+[2026.06.04-13.47.29:136][196]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-13.47.29:136][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-13.47.29:136][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-13.47.29:136][196]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-13.47.29:136][196]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-13.47.29:137][196]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-13.47.29:137][196]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.04-13.47.29:137][196]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.04-13.47.29:137][196]AssetCheck: /Game/Hour_of_Code/Maps/SubLevels/SubLevels_Level_HOC_world_P Validating asset
+[2026.06.04-13.47.29:137][196]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.04-13.47.29:137][196]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.04-13.48.07:090][353]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node B33F3FAF419ABDD1F532CE86E43A4CB1 (10.131.60.138:58282)
